@@ -1,6 +1,6 @@
 import React from 'react'
 import photo from './photo.jpg'
-import '../App.css'
+import './style.css'
 
 const ProfilePhoto = () => {
     return (

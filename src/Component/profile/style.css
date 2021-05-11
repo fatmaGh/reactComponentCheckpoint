@@ -1,0 +1,23 @@
+
+.profilePhoto{
+    align-self: center;
+    margin: 5% 0;
+  }
+  
+  .fullName{  
+    font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+    letter-spacing:0.1em;
+    text-align:center;
+    text-transform: lowercase;
+    font-size: 40pt;
+    font-variant: small-caps;
+  }
+  
+  .address{
+    font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+    letter-spacing:0.1em;
+    text-align:center;
+    text-transform: lowercase;
+    font-size: 15pt;
+    font-variant: small-caps;
+  }

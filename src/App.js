@@ -1,10 +1,7 @@
 import './App.css';
-import ProfilePhoto from './profile/ProfilePhoto'
-import FullName from './profile/FullName'
-import Address from './profile/Address'
-// import '@fortawesome/fontawesome-free/css/all.min.css';
-// import { MDBIcon, MDBContainer, MDBBtn } from 'mdbreact';
-// import 'mdbreact/dist/css/mdb.css';
+import ProfilePhoto from './Component/profile/ProfilePhoto'
+import FullName from './Component/profile/FullName'
+import Address from './Component/profile/Address'
 
 
 
